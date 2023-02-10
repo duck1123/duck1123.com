@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Keybase proof
+
+I hereby claim:
+
+I am duck1123 (742575108) on telegram.
+I am duck1123 on keybase.
+I have a public key with a fingerprint of 07FB 9678 9934 E76A 3A44 2D42 36D7 F9B5 EDBF 141B
+
+To claim this, I am signing this text with the PGP key referenced above, yielding the PGP signature:
+-----BEGIN PGP SIGNATURE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+wsFcBAABCgAGBQJeWBfCAAoJEDbX+bXtvxQbDNYQAKYi5V0uCTq6jJS8j3rYUf6T
+XsmFUmkFzlGmQxN8mhMucjqfXVFZOMmj84giSb+cW4sjnwbeFQHOqoKRHyar0I1P
+8dcEQA7N5SeKRBjDEnbANWwLn4oucPK9Uf5x0RnwU+w5VmNiKo6o2hfC8eTE+5Pf
+42VGqvpqRmX8KfbYiO8UvGVfDyH439pKFTkHr47eDJWQho45+mIFYyNIv/amPYwW
+1o8Xd4Zk4PgfCaAhB2l+BqfVV/PbrFjr0Ar0xO/7J87MnsUFtnV3tQXaIMg8BNjG
+nTTiywKxdqpqXv6ki6OGY3udZFXiOA0GUgS4OFbezTrkj/JmynSbtbNi8T15uh+8
+YIawNPRdh9ElLBbm5dIG2vEC4EguOgQutqMoOd0zBp+bl8foUg5VPsMTO11gjxSn
+kRJZq8GKnP/IfqiMGvg50OHZXh5vAwkObizC+MAbk5REID/MC6mRajTDINJ/yk5a
+bqE4VkuHf6Zt51fEHAkUzO5qbWR5ArUJVeUNZXr16SYxo1/d2G3k/c1w/099Q74N
+BeT24Tqcl/fO+VJ2jnyZNLDLoeD4yAnTNC/DfwlYK5IVOvuh2jsNBFaPm+Wwdffc
+v09bJamBbs1bQUV4IQ77szfYI+q2wJN8/B/tLrPkXhDzY19wy2CUQ6h65p13oKy6
+9jf3jeTQXqI8VzUhEcaw
+=ttUO
+-----END PGP SIGNATURE-----
