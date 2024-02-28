@@ -4,9 +4,9 @@ Duck's just this guy, you know?
 
 == Links
 
-- [Nostr](https://nosta.me/_@duck1123.com)
+- [Nostr](https://nosta.me/_@duck1123.com) (npub1g7ec7nfhyyus6kmtaaud4clnuwygandlrpz0hvem3pep6dndtjyqumtp42)
+- [Nostree](https://nostree.me/_@duck1123.com)
 - [Github](https://github.com/duck1123)
-- [Twitter](https://twitter.com/duck1123)
 
 == Groups
 
