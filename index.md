@@ -4,7 +4,7 @@ Duck's just this guy, you know?
 
 <iframe src="https://nosta.me/_@duck1123.com" height="800" width="100%" title="nosta.me"></iframe>
 
-<iframe src="https://nostree.me/_@detbtc.com" height="800" width="100%" title="nostree.me"></iframe>
+<iframe src="https://nostree.me/_@duck1123.com" height="800" width="100%" title="nostree.me"></iframe>
 
 == Links
 
