@@ -1,7 +1,3 @@
-<img src="images/duck1123.png" />
-
-Duck's just this guy, you know?
-
 <iframe src="https://nosta.me/_@duck1123.com" height="800" width="100%" title="nosta.me"></iframe>
 
 <iframe src="https://nostree.me/_@duck1123.com" height="800" width="100%" title="nostree.me"></iframe>
